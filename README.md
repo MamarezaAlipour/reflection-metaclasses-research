@@ -383,7 +383,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{reflection_metaclasses_2024,
+@article{reflection_metaclasses_2025,
   title={Reflection and Metaclasses in C++23: The Future of Generic Programming},
   author= Mohammadreza Alipour,
   year={2025},
