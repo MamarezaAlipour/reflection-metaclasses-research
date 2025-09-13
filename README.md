@@ -1,6 +1,5 @@
 # Reflection and Metaclasses in C++23: The Future of Generic Programming
 
-[![Build Status](https://github.com/MamarezaAlipour/reflection-metaclasses-research/workflows/CI/badge.svg)](https://github.com/MamarezaAlipour/reflection-metaclasses-research/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![C++ Standard](https://img.shields.io/badge/C%2B%2B-23-blue.svg)](https://isocpp.org/)
 
